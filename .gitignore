@@ -1,0 +1,11 @@
+**/.DS_Store
+**.pyc
+.coverage
+.env*
+.idea*
+.python-version
+.ruff_cache
+.venv
+.vscode
+alembic_local_runner.sh
+test-results/*
